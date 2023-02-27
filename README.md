@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Basant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basant-kumar-singh-77549a153/)](https://www.linkedin.com/in/basant-kumar-singh-77549a153/)
